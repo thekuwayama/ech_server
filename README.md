@@ -1,8 +1,8 @@
-# ech_server
+# sample_ech_server
 
 ```
-git clone --recursive git@github.com:thekuwayama/ech_server.git
-cd ech_server/go/src/
+git clone --recursive git@github.com:thekuwayama/sample_ech_server.git
+cd sample_ech_server/go/src/
 ./make.bash
 cd ../..
 GOROOT='' go/bin/go run main.go
